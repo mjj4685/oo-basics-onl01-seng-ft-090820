@@ -7,8 +7,8 @@ class Shoe                 # Make your shoe class here!
   end
 
   def cobble()
-  
-    puts 
+
+    puts
   end
 
 end
