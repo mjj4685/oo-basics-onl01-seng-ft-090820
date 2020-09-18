@@ -7,8 +7,8 @@ class Shoe                 # Make your shoe class here!
   end
 
   def cobble()
-    self.condition = "new"
-    puts "Your shoe is as goo as new!"
+  
+    puts 
   end
 
 end
